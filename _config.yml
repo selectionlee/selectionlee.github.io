@@ -12,7 +12,7 @@ url: http://selectionlee.github.io # the base hostname & protocol for your site
 permalink: /:year-:month/:title
 timezone:
 
-favicon: /assets/img/favicon.ico
+favicon:
 
 google_analytics: #UA—XXXXXXXX-X
 disqus_shortname: #disqus shortname
@@ -24,7 +24,7 @@ user:
   pic: https://github.com/user-attachments/assets/af124ae2-d5ba-4983-9b56-93ef6a77d090
   picAlt: "catbook"
   job: Master Student
-  aboutme: true # comment this out if you don't need the 'about' page.
+  aboutme: False # comment this out if you don't need the 'about' page.
 
 exclude:
   - README.md
