@@ -13,7 +13,6 @@ permalink: /:year-:month/:title
 timezone:
 
 favicon:
-
 google_analytics: #UA—XXXXXXXX-X
 disqus_shortname: #disqus shortname
 cusdis:
@@ -21,7 +20,7 @@ cusdis:
 
 user:
   name: SeonjeongLee
-  pic: https://github.com/user-attachments/assets/af124ae2-d5ba-4983-9b56-93ef6a77d090
+  pic: ![Image](https://github.com/user-attachments/assets/1fbeaa4e-1d5f-4fdd-8b43-80c4f97c0357)
   picAlt: "catbook"
   job: Master Student
   aboutme: False # comment this out if you don't need the 'about' page.
